@@ -1,3 +1,8 @@
+This will be a public domain set of PBKDF2-HMAC-xx implementations based on WaterJuice's public domain hash functions.
+
+It is intended to have both near-reference and more highly optimized versions available.
+
+
 CryptLib
 ========
 
